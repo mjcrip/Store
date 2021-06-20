@@ -117,6 +117,7 @@ C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\K4os.Compression.LZ4.
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\K4os.Compression.LZ4.Streams.dll
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\K4os.Hash.xxHash.dll
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\MySql.Data.dll
+C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\MySql.Data.EntityFramework.dll
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\Renci.SshNet.dll
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\System.Buffers.dll
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\System.Memory.dll
@@ -130,6 +131,7 @@ C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\K4os.Compression.LZ4.
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\K4os.Compression.LZ4.Streams.xml
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\K4os.Hash.xxHash.xml
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\MySql.Data.xml
+C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\MySql.Data.EntityFramework.xml
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\Renci.SshNet.xml
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\System.Buffers.xml
 C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\System.Memory.xml
@@ -139,6 +141,3 @@ C:\Users\manis\Desktop\Projects\Store\Store.Core\obj\Debug\Store.Core.csproj.Cor
 C:\Users\manis\Desktop\Projects\Store\Store.Core\obj\Debug\Store.Core.csproj.CopyComplete
 C:\Users\manis\Desktop\Projects\Store\Store.Core\obj\Debug\Store.Core.dll
 C:\Users\manis\Desktop\Projects\Store\Store.Core\obj\Debug\Store.Core.pdb
-C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\MySql.Data.EntityFramework.dll
-C:\Users\manis\Desktop\Projects\Store\Store.Core\bin\Debug\MySql.Data.EntityFramework.xml
-C:\Users\manis\Desktop\Projects\Store\Store.Core\obj\Debug\Store.Core.csproj.AssemblyReference.cache
