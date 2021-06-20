@@ -1,4 +1,4 @@
-﻿using MySql.Data.Entity;
+﻿using MySql.Data.EntityFramework;
 using Store.Core.Entities.Associations;
 using Store.Core.Entities.Catelog;
 using Store.Core.Entities.Ecosystem;
@@ -6,11 +6,10 @@ using Store.Core.Entities.Sports;
 using Store.Core.Interfaces;
 using Store.Infra.Shared;
 using System.Data.Entity;
-using System.Data.Entity.Migrations.History;
 
 namespace Store.Infra.Domains
 {
-	[DbConfigurationType(typeof(MySqlEFConfiguration))]
+    [DbConfigurationType(typeof(MySqlEFConfiguration))]
 	public class CatelogContext : EntityContext
     {
 		public CatelogContext() : base(ContextNames.Catelog)

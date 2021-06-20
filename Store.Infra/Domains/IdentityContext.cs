@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNet.Identity.EntityFramework;
-using MySql.Data.Entity;
+using MySql.Data.EntityFramework;
 using Store.Infra.Identity;
 using System.Data.Entity;
 
