@@ -183,3 +183,6 @@ C:\Users\manis\Desktop\Projects\Store\Store.Infra\obj\Debug\Store.Infra.csproj.C
 C:\Users\manis\Desktop\Projects\Store\Store.Infra\obj\Debug\Store.Infra.csproj.CopyComplete
 C:\Users\manis\Desktop\Projects\Store\Store.Infra\obj\Debug\Store.Infra.dll
 C:\Users\manis\Desktop\Projects\Store\Store.Infra\obj\Debug\Store.Infra.pdb
+C:\Users\manis\Desktop\Projects\Store\Store.Infra\obj\Debug\Store.Infra.Migrations.Catelog.InitialCreate.resources
+C:\Users\manis\Desktop\Projects\Store\Store.Infra\obj\Debug\Store.Infra.csproj.GenerateResource.cache
+C:\Users\manis\Desktop\Projects\Store\Store.Infra\obj\Debug\Store.Infra.Migrations.Identity.InitialCreate.resources

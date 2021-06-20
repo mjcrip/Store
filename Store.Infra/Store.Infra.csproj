@@ -123,7 +123,15 @@
     <Compile Include="Identity\Managers\ApplicationRoleManager.cs" />
     <Compile Include="Identity\Managers\ApplicationSignInManager.cs" />
     <Compile Include="Identity\Managers\ApplicationUserManager.cs" />
+    <Compile Include="Migrations\Catelog\202106201313370_InitialCreate.cs" />
+    <Compile Include="Migrations\Catelog\202106201313370_InitialCreate.Designer.cs">
+      <DependentUpon>202106201313370_InitialCreate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Catelog\CatelogConfiguration.cs" />
+    <Compile Include="Migrations\Identity\202106201314483_InitialCreate.cs" />
+    <Compile Include="Migrations\Identity\202106201314483_InitialCreate.Designer.cs">
+      <DependentUpon>202106201314483_InitialCreate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Identity\IdentityConfiguration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\BaseContextRepository.cs" />
@@ -143,6 +151,14 @@
       <Project>{86f9813e-9475-45f3-abcc-3f3afceced56}</Project>
       <Name>Store.Core</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\Catelog\202106201313370_InitialCreate.resx">
+      <DependentUpon>202106201313370_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\Identity\202106201314483_InitialCreate.resx">
+      <DependentUpon>202106201314483_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
